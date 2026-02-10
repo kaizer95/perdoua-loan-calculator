@@ -44,6 +44,7 @@ export const CAR_MODELS = [
     name: "Axia",
     image: axiaImg,
     variants: [
+      { name: "1.0 E", price: 23191.00 },
       { name: "1.0 G", price: 40392.00 },
       { name: "1.0 X", price: 41848.00 },
       { name: "1.0 SE", price: 45901.00 },
